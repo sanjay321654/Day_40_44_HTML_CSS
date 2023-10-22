@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.container{
+    border: solid black 2px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    text-align: center;
+}
+.box{
+    width: 200px;
+    color: white;
+}

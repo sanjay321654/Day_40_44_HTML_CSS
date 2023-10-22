@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    font-family: Libre Baskerville;
+    color: white;
+}
+
+.First{
+    margin-top: 100px;
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+  
+    
+}
+
+.second{
+    border:5px solid white;
+
+    /* width: 100%; */
+}
+
+h2{
+    text-transform: uppercase;
+   
+}

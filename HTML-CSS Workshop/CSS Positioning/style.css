@@ -1,0 +1,26 @@
+.one{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    position:static;
+}
+.two{
+    background-color: rgb(119, 192, 17);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 50px;
+    
+}
+.three{
+    background-color: rgb(108, 21, 59);
+    width: 100px;
+    height: 100px;
+    position: static;
+
+
+}
+h1{
+    position: absolute;
+    top: 20px;
+}
